@@ -1,75 +1,66 @@
-<!-- HEADER BANNER -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f172a&height=200&section=header&text=Bruna%20%7C%20Full%20Stack%20Developer&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0a,50:4a1515,100:1a0a0a&height=220&section=header&text=bruna.gabriela&fontSize=38&fontColor=cc3333&fontAlignY=38&desc=junior+full+stack+developer&descAlignY=58&descFontColor=888888" />
 </p>
-
----
-
-# 👋 About Me
-
-💻 Junior Full Stack Developer · Porto, Portugal
-🎓 Student @ 42 Porto (C programming & algorithms)
-🌱 Built through **Bytes4Future** 17-week intensive bootcamp
-💼 Open to: Junior Full Stack / Frontend roles in Porto or remote
-🌍 Portuguese 🇧🇷 · English (C1) · Spanish (B2)
-
-I care about clean code, good UX, and building things that actually work.
-
----
-
-# 🧠 Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,c" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-- 💳 **[Bank Card App](https://github.com/gabebruu/next-express-bank-card)** — Full-stack banking card UI · Next.js + Express
-- 🎨 **[Bytes4Coolors](https://github.com/gabebruu/Project-Bytes4Coolors)** — Colour palette generator · team bootcamp project
-- 🎮 **[Tic-Tac-Toe](https://github.com/gabebruu/tic-tac-toe.react)** — Interactive React game with state management
-- 📚 **[Bytes4Future Bootcamp](https://github.com/gabebruu/bytes4future)** — Projects from 17-week full-stack bootcamp
-
----
-
-## 📊 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabebruu&theme=react-dark" />
-
----
-
-# 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabebruu&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=CC3333&center=true&vCenter=true&width=500&lines=building+things+that+actually+work.;react+%2F+next.js+%2F+node.js;porto%2C+portugal.;open+to+work+%E2%86%92" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🌐 Connect
+```bash
+$ whoami
+> junior full stack dev | 42 Porto pisciner | bytes4future alumni
+> porto, portugal · open to junior/frontend roles · remote ok
+
+$ skills --list
+> frontend  : react · next.js · typescript · javascript · tailwind · redux
+> backend   : node.js · express · mongodb · postgresql
+> tools     : git · c (learning @ 42)
+> languages : portuguese (native) · english C1 · spanish B2
+```
+
+---
+
+# ⚡ Projects
+
+| | Project | Stack |
+|---|---|---|
+| 💳 | **[next-express-bank-card](https://github.com/gabebruu/next-express-bank-card)** | Next.js · Express · JS |
+| 🎨 | **[Project-Bytes4Coolors](https://github.com/gabebruu/Project-Bytes4Coolors)** | Vanilla JS · CSS |
+| 🎮 | **[tic-tac-toe.react](https://github.com/gabebruu/tic-tac-toe.react)** | React · JS |
+| 📦 | **[bytes4future](https://github.com/gabebruu/bytes4future)** | bootcamp archive |
+
+---
+
+# 🧱 Stack
 
 <p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,nodejs,express,mongodb,postgres,git,c&theme=dark" />
+</p>
+
+---
+
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabebruu&theme=github-compact&bg_color=1a0a0a&color=cc3333&line=cc3333&point=ffffff&hide_border=true" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabebruu&theme=dark&background=1a0a0a&ring=cc3333&fire=cc3333&currStreakLabel=cc3333&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
   <a href="https://linkedin.com/in/gabebruu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%23CC3333.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gabebruu@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/email-%23CC3333.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d9488&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0a,50:4a1515,100:1a0a0a&height=100&section=footer" />
 </p>
