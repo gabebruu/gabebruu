@@ -1,81 +1,75 @@
-<div align="center">
-
-# Hi, I'm Bruna 👋
-
-**Junior Full Stack Developer** · Porto, Portugal
-
-*Building real products with React, Next.js & Node.js*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabebruu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabebruu@icloud.com)
-
-</div>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f172a&height=200&section=header&text=Bruna%20%7C%20Full%20Stack%20Developer&fontSize=30&fontColor=ffffff" />
+</p>
 
 ---
 
-### About me
+# 👋 About Me
 
-I'm a junior full stack developer based in Porto with a strong foundation in JavaScript, React, and Node.js — built through intensive training at **Bytes4Future** and **42 Porto**, and validated by delivering a production project for a real client.
+💻 Junior Full Stack Developer · Porto, Portugal
+🎓 Student @ 42 Porto (C programming & algorithms)
+🌱 Built through **Bytes4Future** 17-week intensive bootcamp
+💼 Open to: Junior Full Stack / Frontend roles in Porto or remote
+🌍 Portuguese 🇧🇷 · English (C1) · Spanish (B2)
 
 I care about clean code, good UX, and building things that actually work.
 
-- 🔭 Currently: finishing 42 Porto's Piscine (C programming & algorithms)
-- 🌱 Learning: TypeScript, PostgreSQL, system design
-- 💼 Open to: Junior Full Stack / Frontend Developer roles in Porto or remote
-- 🌍 Languages: Portuguese 🇧🇷 · English (C1) · Spanish (B2)
+---
+
+# 🧠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,c" />
+</p>
 
 ---
 
-### Tech Stack
+# 🚀 Featured Projects
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+- 💳 **[Bank Card App](https://github.com/gabebruu/next-express-bank-card)** — Full-stack banking card UI · Next.js + Express
+- 🎨 **[Bytes4Coolors](https://github.com/gabebruu/Project-Bytes4Coolors)** — Colour palette generator · team bootcamp project
+- 🎮 **[Tic-Tac-Toe](https://github.com/gabebruu/tic-tac-toe.react)** — Interactive React game with state management
+- 📚 **[Bytes4Future Bootcamp](https://github.com/gabebruu/bytes4future)** — Projects from 17-week full-stack bootcamp
 
 ---
 
-### Featured Projects
+## 📊 GitHub Activity
 
-| Project | Description | Stack |
-|---|---|---|
-| 💳 **[Bank Card App](https://github.com/gabebruu/next-express-bank-card)** | Full-stack banking card UI with Next.js frontend and Express backend | Next.js, Express, JavaScript |
-| 🎨 **[Bytes4Coolors](https://github.com/gabebruu/Project-Bytes4Coolors)** | Colour palette tool built as a team project during bootcamp | JavaScript, React |
-| 🎮 **[Tic-Tac-Toe](https://github.com/gabebruu/tic-tac-toe.react)** | Interactive React game with state management | React, JavaScript, CSS |
-| 📚 **[Bytes4Future Bootcamp](https://github.com/gabebruu/bytes4future)** | Full stack projects built during 17-week intensive bootcamp | JS, React, Node.js, MongoDB |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabebruu&theme=react-dark" />
 
 ---
 
-### GitHub Stats
+# 🔥 Streak
 
-<div align="center">
-
-![Bruna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabebruu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabebruu&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabebruu&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+# 🌐 Connect
 
-*"First, solve the problem. Then, write the code."*
+<p>
+  <a href="https://linkedin.com/in/gabebruu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gabebruu@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d9488&height=100&section=footer" />
+</p>
