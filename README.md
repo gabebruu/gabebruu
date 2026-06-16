@@ -1,10 +1,10 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0a,50:4a1515,100:1a0a0a&height=220&section=header&text=bruna.gabriela&fontSize=38&fontColor=cc3333&fontAlignY=38&desc=junior+full+stack+developer&descAlignY=58&descFontColor=888888" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a10,50:2a1a28,100:0d0a10&height=220&section=header&text=bruna.gabriela&fontSize=38&fontColor=f4a7b9&fontAlignY=38&desc=junior+full+stack+developer&descAlignY=58&descFontColor=888888" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=CC3333&center=true&vCenter=true&width=500&lines=building+things+that+actually+work.;react+%2F+next.js+%2F+node.js;porto%2C+portugal.;open+to+work+%E2%86%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=F4A7B9&center=true&vCenter=true&width=500&lines=building+things+that+actually+work.;react+%2F+next.js+%2F+node.js;porto%2C+portugal.;open+to+work+%E2%86%92" alt="Typing SVG" />
 </p>
 
 ---
@@ -44,23 +44,23 @@ $ skills --list
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabebruu&theme=github-compact&bg_color=1a0a0a&color=cc3333&line=cc3333&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabebruu&bg_color=0d0a10&color=f4a7b9&line=f4a7b9&point=ffffff&hide_border=true" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabebruu&theme=dark&background=1a0a0a&ring=cc3333&fire=cc3333&currStreakLabel=cc3333&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gabebruu&theme=dark&background=0d0a10&ring=f4a7b9&fire=f4a7b9&currStreakLabel=f4a7b9&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://linkedin.com/in/gabebruu">
-    <img src="https://img.shields.io/badge/linkedin-%23CC3333.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%23f4a7b9.svg?style=for-the-badge&logo=linkedin&logoColor=0d0a10">
   </a>
   <a href="mailto:gabebruu@icloud.com">
-    <img src="https://img.shields.io/badge/email-%23CC3333.svg?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/email-%23f4a7b9.svg?style=for-the-badge&logo=gmail&logoColor=0d0a10">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0a,50:4a1515,100:1a0a0a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a10,50:2a1a28,100:0d0a10&height=100&section=footer" />
 </p>
